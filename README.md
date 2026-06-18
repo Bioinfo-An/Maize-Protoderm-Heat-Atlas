@@ -1,6 +1,5 @@
 # Single-cell and spatial multi-omics reveal a protoderm-driven survival trade-off during extreme heat stress in maize
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx) This repository contains the custom analytical pipelines and R scripts used for the bioinformatic and statistical analyses in our study: *"Single-cell and spatial multi-omics reveal a protoderm-driven survival trade-off during extreme heat stress in maize"* (Currently under review).
 
 ## 🧬 Project Overview
 By integrating high-resolution **snRNA-seq**, **hdWGCNA**, **DAP-seq**, and **In Situ Sequencing (ISS)**, we constructed a spatiotemporal expression atlas of maize seedling leaves under acute heat stress and sustained acclimation. We identified a *ZmHsftf11*-dictated "proteostatic checkpoint" specifically anchored in the protodermal layer, driving a systemic survival trade-off network.
